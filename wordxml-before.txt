@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
+  <w:body>
+    <w:p w:rsidR="00622647" w:rsidRDefault="00707E34">
+      <w:r>
+        <w:t>Das ist ein Test</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34"/>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34">
+      <w:r>
+        <w:t>${</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>stinkTier</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t>}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34"/>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34">
+      <w:r>
+        <w:t>${</w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:t>Whoot</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:t>}</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34"/>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34"/>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00707E34">
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>Lorem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00707E34">
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00707E34">
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>Ipsum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidR="00CC3169">
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidR="00CC3169">
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>sdfsdfsdfs</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidR="00CC3169">
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidR="00CC3169">
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>sdfsdfsdf</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidR="00CC3169">
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CC3169" w:rsidRDefault="00CC3169">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Sdasdsads</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CC3169" w:rsidRDefault="00CC3169">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Sdasdasd</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+    </w:p>
+    <w:p w:rsidR="00CC3169" w:rsidRDefault="00CC3169">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00CC3169" w:rsidRDefault="00CC3169">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Asdadadaada</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+    </w:p>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00CC3169" w:rsidRDefault="00CC3169">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>Perhaps</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>the</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>most</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>useful</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>simplification</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>that</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>this</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>performs</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>is</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>to</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>merge</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>adjacent</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>runs</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>with</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>identical</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>formatting</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.  </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>There</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>is</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> not an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>option</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>for</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>this</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>as</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>MarkupSimplifier</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> will </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>always</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>merge</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>adjacent</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>runs</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>with</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>identical</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>formatting</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.  Open XML </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>applications</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>including</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Word, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>can</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>arbitrarily</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>split</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>runs</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>as</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>necessary</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">.  </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>If</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>you</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>for</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>instance</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>add</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> a </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>comment</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"/>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>to</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> a do</w:t>
+      </w:r>
+      <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+      <w:bookmarkEnd w:id="0"/>
+    </w:p>
+    <w:p w:rsidR="00707E34" w:rsidRDefault="00707E34">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00707E34" w:rsidRPr="00707E34" w:rsidRDefault="00707E34">
+      <w:pPr>
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>${goober}</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00707E34" w:rsidRPr="00707E34">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1417" w:right="1417" w:bottom="1134" w:left="1417" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
