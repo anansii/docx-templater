@@ -23,6 +23,7 @@ type Docx struct {
 
 //LoadDocx extracts a docx into memory and allows to process the WordXML
 func LoadDocx(source string) (Docx, error) {
+	Trace.Printf("Loading %s\n", source)
 	var docx Docx
 	reader, err := zip.OpenReader(source)
 	if err != nil {
